@@ -1,3 +1,4 @@
+![alternativetext](assets/img/logo/main-logo.png)
 # Techmarkable.com
 Techmarkable is a startup company launced in result of our Master Degree Research Project.
 Techmarkable is the fusion of Technology and Remarkable. 
